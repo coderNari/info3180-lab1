@@ -7,4 +7,25 @@ body {
 .container {
   max-width: 960px;
   margin: 0 auto;
+  height: 100vh;
+
+}
+
+h1{
+  text-align: center;
+  color:blueviolet;
+  font-size: 100px;
+}
+
+p{
+  text-align: center;
+  color: cornflowerblue;
+  font-weight: 500;
+  font-size: 80px;
+}
+.image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px; 
 }
